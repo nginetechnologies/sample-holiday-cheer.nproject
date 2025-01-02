@@ -1,0 +1,2639 @@
+{
+    "01941ec2-2437-719d-0d5e-d78631c46e74": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "01941ec2-245e-7089-459a-37bfbff5b3e6",
+            "01941ec2-245f-70a8-b57b-a9d00f9d3374",
+            "01941ec2-245f-72ab-5063-2b6c2986285b",
+            "01941ec2-245f-7083-c888-7fd7a4665ebf",
+            "01941ec2-245f-70a3-bc7f-b58c5637ec41",
+            "01941ec2-245f-7fb9-fc4a-dd84ec41dc91",
+            "01941ec2-245f-7482-050f-a34b4f92dd29",
+            "01941ec2-245f-76bf-c0df-5732beec5bba",
+            "01941ec2-245f-7894-62c7-e10401a76892",
+            "01941ec2-245f-74b6-7c79-9cb321b693ca",
+            "01941ec2-2460-77ae-911a-773af949b3f1",
+            "01941ec2-2460-75ba-d658-cac1696a1653",
+            "01941ec2-2460-73bb-8fec-cf4809f8131e",
+            "01941ec2-2460-7288-ba5e-fc7ee68d35d3",
+            "01941ec2-2460-7981-0636-980a588eea75",
+            "01941ec2-2460-7c9e-5ada-16bebc0e3742",
+            "01941ec2-2460-7bbf-097a-c38f9e86720c",
+            "01941ec2-2460-7ea0-0045-2f98f77da307",
+            "01941ec2-2460-77bd-f5c3-d92e4161ca0d",
+            "01941ec2-2460-768c-4adf-b6cff943a08f",
+            "01941ec2-2460-7eba-1571-411105572ab5",
+            "01941ec2-2460-74bb-cc93-606752e62a8f",
+            "01941ec2-2461-7580-229f-f7c3d5eba1f3",
+            "01941ec2-2461-76bf-9cb9-931092e1ecdb",
+            "01941ec2-2461-7187-8451-90463455678c",
+            "01941ec2-2461-7d8e-3595-abf1ee17b1ac",
+            "01941ec2-2461-76b6-1bf4-835042704315",
+            "01941ec2-2461-789c-04f1-fd77a7c9b168",
+            "01941ec2-2461-79a9-13bf-1b8949159b12",
+            "01941ec2-2461-72b6-9940-277b5f421672",
+            "01941ec2-2461-779d-bef1-215adbe51265",
+            "01941ec2-2461-7586-fa94-44f96a8f3dbd",
+            "01941ec2-2461-74b7-1622-ad10a44a6cc2",
+            "01941ec2-2461-78bd-1dba-5adfc82e833e",
+            "01941ec2-2461-70a4-0fe8-21fbce73dd41",
+            "01941ec2-2461-7c80-1388-250b6fd05257",
+            "01941ec2-2462-77bb-4ec4-4699d12ed17c",
+            "01941ec2-2462-73b0-759f-a5068a2a425a",
+            "01941ec2-2462-7798-9008-90a0e99b0920",
+            "01941ec2-2462-74a0-f3aa-3acea4639931",
+            "01941ec2-2462-7085-872f-6a3af5c0f271",
+            "01941ec2-2462-7394-6f7a-ff85bf88b05f",
+            "01941ec2-2462-7a94-4c3b-a1a9e3387eca",
+            "01941ec2-2462-788c-3abd-ddc64b3d9376",
+            "01941ec2-2462-7f9f-aa79-f424d89e6f18",
+            "01941ec2-2462-798c-e42d-7a6abb6a15c6",
+            "01941ec2-2462-758d-f460-e9da44b8cc4b",
+            "01941ec2-2462-76aa-0a2a-5baa518bfb0e",
+            "01941ec2-2462-72a4-99eb-aaa29c6b48ca",
+            "01941ec2-2462-7381-a64d-a3c037ff2f85",
+            "01941ec2-2462-7497-fb07-64e7a34202d3",
+            "01941ec2-2463-7293-7cfa-648803e00b32",
+            "01941ec2-2463-7f99-d6be-00a9ebed76ca",
+            "01941ec2-2463-7094-656b-95b9fcdb1b82",
+            "01941ec2-2463-7fa6-07b9-b0e3266d630e",
+            "01941ec2-2463-77aa-dc0a-293cb3b98181",
+            "01941ec2-2463-7d80-82fc-b40b405be14b",
+            "01941ec2-2463-79b2-ba82-9a0b980e7f09",
+            "01941ec2-2463-799f-a98d-428a806bef4a",
+            "01941ec2-2463-709b-ebb5-680cbf29e350",
+            "01941ec2-2463-70be-aabf-fe5f510e8c03",
+            "01941ec2-2463-72b1-91df-105bcfc29ef6",
+            "01941ec2-2463-7ca2-df3f-4fdaa34fedc0",
+            "01941ec2-2463-70ab-abeb-bf36ac5ec236",
+            "01941ec2-2463-7dba-bd45-6bb1c7dce885",
+            "01941ec2-2464-7fa6-a098-94d6a6fc34d5",
+            "01941ec2-2464-7d99-a3a3-a3612c3afc5d",
+            "01941ec2-2464-7ebb-4e65-a35627a5f539",
+            "01941ec2-2464-7989-6bc6-e8fa6a9a4e12",
+            "01941ec2-2464-7bbe-4fd8-612867783a9e",
+            "01941ec2-2464-719e-4ba4-beea706e0bab",
+            "01941ec2-2464-7d95-9e08-fa41090562e6",
+            "01941ec2-2464-7b85-6b84-fb3e4f9da40f",
+            "01941ec2-2464-7092-d8ac-600d97f4a2c5",
+            "01941ec2-2464-74b2-eb46-8e7e8037a793",
+            "01941ec2-2464-7ea1-aff2-bd99d77d0b5c",
+            "01941ec2-2464-708d-7cbc-444b7e68b496",
+            "01941ec2-2464-7386-afdb-50674c921039",
+            "01941ec2-2465-7289-cf00-eef899555e54",
+            "01941ec2-2465-7faa-e787-00df2dc9b6e9",
+            "01941ec2-2465-71a7-3250-77616ae77b8d",
+            "01941ec2-2465-74b4-cf05-7ca30ea0532c",
+            "01941ec2-2465-7b9e-e3f5-0c2a300e9590",
+            "01941ec2-2465-7594-439e-613dbfeb3a2f",
+            "01941ec2-2465-7287-5083-706c0ee3bea4",
+            "01941ec2-2465-7ab1-8732-a3c951edfdad",
+            "01941ec2-2465-7191-1cf4-f9fe23fa3a35",
+            "01941ec2-2465-7ca6-39bd-4ae595afafef",
+            "01941ec2-2465-7cbd-f6f7-047e538b01f8",
+            "01941ec2-2466-7da2-f51e-ca1eb04d6451",
+            "01941ec2-2466-7ca5-cc44-ae24b26a34ff",
+            "01941ec2-2466-789c-c8b1-4599add92c51",
+            "01941ec2-2466-7d99-a29f-4bfe3197b393",
+            "01941ec2-2466-79a8-7d5f-3fbc247a8d87",
+            "01941ec2-2466-7bbf-db78-6fdd73881379",
+            "01941ec2-2466-7883-9a4a-b589df337e9f",
+            "01941ec2-2466-7c95-5fda-903356447f27",
+            "01941ec2-2466-79af-84f9-d167e3ba4ad4",
+            "01941ec2-2466-72b8-0d68-e1e6d7fc2e0f"
+        ]
+    },
+    "01941ec2-245e-7089-459a-37bfbff5b3e6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Bench.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-245e-7886-4c02-0eb6e97031b7",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245e-70a0-7cc1-17ad94fe6544": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/Holiday Cheer.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "01941ec2-245f-769e-accc-4e371d15d4d1"
+        ]
+    },
+    "01941ec2-245e-7886-4c02-0eb6e97031b7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Bench.mesh.nasset/Bench Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-7083-c888-7fd7a4665ebf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Corner Bottom.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-245f-7b98-d2b3-875aca8678b9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-70a3-bc7f-b58c5637ec41": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Corner Logs.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-245f-7fb7-ada3-04ba0f240168",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-70a8-b57b-a9d00f9d3374": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Bench Short.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-245f-739a-a73b-148ac6d1e30b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-71ad-5456-bf8b66f84891": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Door Rotate.mesh.nasset/Cabin Door Rotate Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-72ab-5063-2b6c2986285b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-245f-7ead-5b4e-55847719f952",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-739a-a73b-148ac6d1e30b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Bench Short.mesh.nasset/Bench Short Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-7482-050f-a34b4f92dd29": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Doorway.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-245f-7494-1ed0-0ab5a1bb9d10",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-7494-1ed0-0ab5a1bb9d10": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Doorway.mesh.nasset/Cabin Doorway Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-74b6-7c79-9cb321b693ca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Doorway Right.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-245f-77b3-ffab-cf59dfeed408",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-769e-accc-4e371d15d4d1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/Textures/T_Holiday_Cheer_D.tex.nasset"
+    },
+    "01941ec2-245f-76bf-c0df-5732beec5bba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Doorway Center.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-245f-77ab-31e6-af512e041a57",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-77ab-31e6-af512e041a57": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Doorway Center.mesh.nasset/Cabin Doorway Center Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-77b3-ffab-cf59dfeed408": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Doorway Right.mesh.nasset/Cabin Doorway Right Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-7894-62c7-e10401a76892": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Doorway Left.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-245f-79ba-b241-17d16262c1d1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-79ba-b241-17d16262c1d1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Doorway Left.mesh.nasset/Cabin Doorway Left Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-7b98-d2b3-875aca8678b9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Corner Bottom.mesh.nasset/Cabin Corner Bottom Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-7ead-5b4e-55847719f952": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Corner.mesh.nasset/Cabin Corner Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-7fb7-ada3-04ba0f240168": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Corner Logs.mesh.nasset/Cabin Corner Logs Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-245f-7fb9-fc4a-dd84ec41dc91": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Door Rotate.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-245f-71ad-5456-bf8b66f84891",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-7089-fe0b-915b04829f17": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Snow Chimney.mesh.nasset/Cabin Roof Snow Chimney Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-718d-87e7-6556dfc46ab0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Overhang Door Rotate.mesh.nasset/Cabin Overhang Door Rotate Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-7288-ba5e-fc7ee68d35d3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2460-77a1-95ed-19c237ca28c4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-72aa-eb4a-23db96e95b8d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Chimney.mesh.nasset/Cabin Roof Chimney Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-73bb-8fec-cf4809f8131e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Overhang Doorway.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2460-7a8e-a163-f5ddfbe2b81b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-74a5-cb27-d471260d725a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Dormer.mesh.nasset/Cabin Roof Dormer Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-74b5-9357-ccc26e3ba540": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Snow.mesh.nasset/Cabin Roof Snow Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-74bb-cc93-606752e62a8f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Snow Dormer.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2460-7785-b4ae-f1612354dbaa",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-75ba-d658-cac1696a1653": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Overhang Door Rotate.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2460-718d-87e7-6556dfc46ab0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-768c-4adf-b6cff943a08f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Snow Chimney.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2460-7089-fe0b-915b04829f17",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-7695-2472-40ba3305394a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Fence.mesh.nasset/Cabin Fence Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-7785-b4ae-f1612354dbaa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Snow Dormer.mesh.nasset/Cabin Roof Snow Dormer Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-77a1-95ed-19c237ca28c4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof.mesh.nasset/Cabin Roof Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-77ae-911a-773af949b3f1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Fence.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2460-7695-2472-40ba3305394a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-77bd-f5c3-d92e4161ca0d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Snow.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2460-74b5-9357-ccc26e3ba540",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-7981-0636-980a588eea75": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Chimney.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2460-72aa-eb4a-23db96e95b8d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-79a3-4b96-a143995bd0ac": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Point.mesh.nasset/Cabin Roof Point Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-7a83-f365-e1931681ebf3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Snow Corner.mesh.nasset/Cabin Roof Snow Corner Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-7a8e-a163-f5ddfbe2b81b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Overhang Doorway.mesh.nasset/Cabin Overhang Doorway Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-7aa5-6e2a-c77ad2a656dc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Corner.mesh.nasset/Cabin Roof Corner Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-7bbf-097a-c38f9e86720c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Dormer.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2460-74a5-cb27-d471260d725a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-7c9e-5ada-16bebc0e3742": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2460-7aa5-6e2a-c77ad2a656dc",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-7ea0-0045-2f98f77da307": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Point.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2460-79a3-4b96-a143995bd0ac",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2460-7eba-1571-411105572ab5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Snow Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2460-7a83-f365-e1931681ebf3",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-70a4-0fe8-21fbce73dd41": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Candy Cane Red.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-7ab4-043d-dd10ddff21e5",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7187-8451-90463455678c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Wall.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-75af-10c1-90554aa72fc1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-71ac-631b-7fba49c203db": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Wall Low.mesh.nasset/Cabin Wall Low Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-728f-d5cc-f8568c73852f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Window C.mesh.nasset/Cabin Window C Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-72b6-9940-277b5f421672": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Window A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-7382-2c7b-62c6233332d6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7382-2c7b-62c6233332d6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Window A.mesh.nasset/Cabin Window A Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-74b7-1622-ad10a44a6cc2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Window Large.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-79af-1c65-0fa8bb16910b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7580-229f-f7c3d5eba1f3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Snow Point.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-7782-a7a5-8d9522a35534",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7586-fa94-44f96a8f3dbd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Window C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-728f-d5cc-f8568c73852f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-75af-10c1-90554aa72fc1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Wall.mesh.nasset/Cabin Wall Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-76b6-1bf4-835042704315": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Wall Roof.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-7fbd-6818-d63f211650cd",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-76bf-9cb9-931092e1ecdb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Top.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-798d-8de7-f219fbca1b97",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7782-a7a5-8d9522a35534": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Snow Point.mesh.nasset/Cabin Roof Snow Point Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-779d-bef1-215adbe51265": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Window B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-7aa7-aeaa-7063a94098ad",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-789c-04f1-fd77a7c9b168": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Wall Roof Center.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-7dbf-557c-d0a1615f69d5",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-78bd-1dba-5adfc82e833e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Candy Cane Green.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-7d9a-cdda-8b89bdb8e7d7",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-798d-8de7-f219fbca1b97": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Roof Top.mesh.nasset/Cabin Roof Top Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-79a9-13bf-1b8949159b12": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Wall Wreath.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-7c99-caca-7e76bbe69c00",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-79af-1c65-0fa8bb16910b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Window Large.mesh.nasset/Cabin Window Large Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7aa7-aeaa-7063a94098ad": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Window B.mesh.nasset/Cabin Window B Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7ab4-043d-dd10ddff21e5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Candy Cane Red.mesh.nasset/Candy Cane Red Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7c80-1388-250b6fd05257": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Festivus Pole.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-7e8a-a30a-9b2702ef941f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7c99-caca-7e76bbe69c00": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Wall Wreath.mesh.nasset/Cabin Wall Wreath Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7d8e-3595-abf1ee17b1ac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Wall Low.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2461-71ac-631b-7fba49c203db",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7d9a-cdda-8b89bdb8e7d7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Candy Cane Green.mesh.nasset/Candy Cane Green Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7dbf-557c-d0a1615f69d5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Wall Roof Center.mesh.nasset/Cabin Wall Roof Center Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7e8a-a30a-9b2702ef941f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Festivus Pole.mesh.nasset/Festivus Pole Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2461-7fbd-6818-d63f211650cd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Cabin Wall Roof.mesh.nasset/Cabin Wall Roof Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7085-872f-6a3af5c0f271": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Gingerbread Woman.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-79b4-6a6a-cdaa0d235b00",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-70b3-236d-6058c90cb170": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Hanukkah Menorah.mesh.nasset/Hanukkah Menorah Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-719e-faae-53e24c2eaca8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Lights Green.mesh.nasset/Lights Green Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-72a4-99eb-aaa29c6b48ca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Lantern Hanging.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-7faa-9100-f56b59debdc1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7381-a64d-a3c037ff2f85": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Lights Colored.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-7c8f-66eb-fea22f07b5de",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-738e-7318-b62c6e0944f4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Hanukkah Dreidel.mesh.nasset/Hanukkah Dreidel Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7394-6f7a-ff85bf88b05f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Hanukkah Dreidel.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-738e-7318-b62c6e0944f4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-73b0-759f-a5068a2a425a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Floor Wood.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-74a1-dcbe-2f26b8e6ac23",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7497-fb07-64e7a34202d3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Lights Green.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-719e-faae-53e24c2eaca8",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-74a0-f3aa-3acea4639931": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Gingerbread Man.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-768f-967d-48271f9f3572",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-74a1-dcbe-2f26b8e6ac23": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Floor Wood.mesh.nasset/Floor Wood Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-758d-f460-e9da44b8cc4b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Kwanzaa Kinara Alternative.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-78bb-c62e-576e74176e05",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-768f-967d-48271f9f3572": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Gingerbread Man.mesh.nasset/Gingerbread Man Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-769f-4858-cd7cbf89dd21": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Floor Wood Snow.mesh.nasset/Floor Wood Snow Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-76aa-0a2a-5baa518bfb0e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Lantern.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-7a93-25b1-f6f05cca18fb",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7798-9008-90a0e99b0920": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Floor Wood Snow.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-769f-4858-cd7cbf89dd21",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-77bb-4ec4-4699d12ed17c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Floor Stone.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-7aad-0613-4fced1f00d34",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-788c-3abd-ddc64b3d9376": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Hanukkah Menorah Candles.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-7eaa-5de2-a0af6946ad85",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-78bb-c62e-576e74176e05": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Kwanzaa Kinara Alternative.mesh.nasset/Kwanzaa Kinara Alternative Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-798c-e42d-7a6abb6a15c6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Kwanzaa Kinara.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-7a81-6742-07b25242d7be",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-79b4-6a6a-cdaa0d235b00": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Gingerbread Woman.mesh.nasset/Gingerbread Woman Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7a81-6742-07b25242d7be": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Kwanzaa Kinara.mesh.nasset/Kwanzaa Kinara Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7a93-25b1-f6f05cca18fb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Lantern.mesh.nasset/Lantern Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7a94-4c3b-a1a9e3387eca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Hanukkah Menorah.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-70b3-236d-6058c90cb170",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7aad-0613-4fced1f00d34": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Floor Stone.mesh.nasset/Floor Stone Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7bb7-db53-93022fc27db4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Kwanzaa Kikombe.mesh.nasset/Kwanzaa Kikombe Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7c8f-66eb-fea22f07b5de": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Lights Colored.mesh.nasset/Lights Colored Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7eaa-5de2-a0af6946ad85": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Hanukkah Menorah Candles.mesh.nasset/Hanukkah Menorah Candles Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7f9f-aa79-f424d89e6f18": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Kwanzaa Kikombe.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2462-7bb7-db53-93022fc27db4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2462-7faa-9100-f56b59debdc1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Lantern Hanging.mesh.nasset/Lantern Hanging Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-708b-5273-ce3c2a6b5fb1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Present B Round.mesh.nasset/Present B Round Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-7094-656b-95b9fcdb1b82": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Present A Cube.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-78ae-f18e-3ac7456c9f78",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-709b-ebb5-680cbf29e350": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Reindeer.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-719a-d869-020e5aa2c93f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-70ab-abeb-bf36ac5ec236": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Sled.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-7196-c30e-bb984ce72dc4",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-70be-aabf-fe5f510e8c03": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Rocks Large.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-7889-8824-945969fef4d8",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-7196-c30e-bb984ce72dc4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Sled.mesh.nasset/Sled Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-719a-d869-020e5aa2c93f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Reindeer.mesh.nasset/Reindeer Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-71ad-ef66-3e6b46f17962": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Present A Rectangle.mesh.nasset/Present A Rectangle Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-7293-7cfa-648803e00b32": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Lights Red.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-79a5-cb3d-b287eb6213d6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-72b1-91df-105bcfc29ef6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Rocks Medium.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-76bb-61ea-163c861a6cdb",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-74bd-eb5f-52f9dd8493c1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Nutcracker.mesh.nasset/Nutcracker Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-75b6-b519-e5dca78cf762": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Rocks Small.mesh.nasset/Rocks Small Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-76bb-61ea-163c861a6cdb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Rocks Medium.mesh.nasset/Rocks Medium Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-77aa-dc0a-293cb3b98181": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Present A Round.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-7c94-d5f3-58803d60aa06",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-7889-8824-945969fef4d8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Rocks Large.mesh.nasset/Rocks Large Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-78a8-36ae-c0206f9359a1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Present B Cube.mesh.nasset/Present B Cube Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-78ae-f18e-3ac7456c9f78": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Present A Cube.mesh.nasset/Present A Cube Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-799f-a98d-428a806bef4a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Present B Round.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-708b-5273-ce3c2a6b5fb1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-79a5-cb3d-b287eb6213d6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Lights Red.mesh.nasset/Lights Red Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-79b2-ba82-9a0b980e7f09": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Present B Rectangle.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-79bf-2d46-f1de70817787",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-79bf-2d46-f1de70817787": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Present B Rectangle.mesh.nasset/Present B Rectangle Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-7c94-d5f3-58803d60aa06": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Present A Round.mesh.nasset/Present A Round Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-7ca2-df3f-4fdaa34fedc0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Rocks Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-75b6-b519-e5dca78cf762",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-7d80-82fc-b40b405be14b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Present B Cube.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-78a8-36ae-c0206f9359a1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-7d8a-2006-e7a380033e1f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Sled Long.mesh.nasset/Sled Long Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-7dba-bd45-6bb1c7dce885": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Sled Long.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-7d8a-2006-e7a380033e1f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-7f99-d6be-00a9ebed76ca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Nutcracker.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-74bd-eb5f-52f9dd8493c1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2463-7fa6-07b9-b0e3266d630e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Present A Rectangle.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2463-71ad-ef66-3e6b46f17962",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-708d-7cbc-444b7e68b496": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Sock Red.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-799f-f9a5-2308875e2c02",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7092-d8ac-600d97f4a2c5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snowman Hat.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-7e8b-56c0-1442a9bdac6d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-70a3-14d9-18b088f7752a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snow Flat Large.mesh.nasset/Snow Flat Large Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-718b-6c1c-abd9b80e28ac": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snow Pile.mesh.nasset/Snow Pile Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-719e-4ba4-beea706e0bab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snowflake B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-7287-7b3d-cc16682f6dd6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7287-7b3d-cc16682f6dd6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snowflake B.mesh.nasset/Snowflake B Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-72af-86a9-53c503b52c57": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snow Bunker.mesh.nasset/Snow Bunker Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7386-afdb-50674c921039": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Sock Red Cane.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-78a9-e59f-b7934ed3a0e2",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-73bd-3178-7475c64eccc2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snowflake C.mesh.nasset/Snowflake C Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-748a-1db9-8e4a079419c8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Sock Green.mesh.nasset/Sock Green Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-74b2-eb46-8e7e8037a793": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Sock Green.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-748a-1db9-8e4a079419c8",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-76a8-dbff-35dd3ab94d13": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snowman.mesh.nasset/Snowman Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-788c-affb-bb575ececd3e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snow Flat.mesh.nasset/Snow Flat Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7896-6823-5a7e86013eac": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snowflake A.mesh.nasset/Snowflake A Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-78a9-e59f-b7934ed3a0e2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Sock Red Cane.mesh.nasset/Sock Red Cane Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7989-6bc6-e8fa6a9a4e12": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snow Pile.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-718b-6c1c-abd9b80e28ac",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7991-1701-b657aa3e4fc6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Sock Green Cane.mesh.nasset/Sock Green Cane Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-799f-f9a5-2308875e2c02": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Sock Red.mesh.nasset/Sock Red Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7b85-6b84-fb3e4f9da40f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snowman.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-76a8-dbff-35dd3ab94d13",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7bbe-4fd8-612867783a9e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snowflake A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-7896-6823-5a7e86013eac",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7d95-9e08-fa41090562e6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snowflake C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-73bd-3178-7475c64eccc2",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7d99-a3a3-a3612c3afc5d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snow Flat.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-788c-affb-bb575ececd3e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7e8b-56c0-1442a9bdac6d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snowman Hat.mesh.nasset/Snowman Hat Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7ea1-aff2-bd99d77d0b5c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Sock Green Cane.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-7991-1701-b657aa3e4fc6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7ebb-4e65-a35627a5f539": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snow Flat Large.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-70a3-14d9-18b088f7752a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2464-7fa6-a098-94d6a6fc34d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Snow Bunker.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2464-72af-86a9-53c503b52c57",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-70ab-825b-827585dca325": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Trainset Rail Detailed Bend.mesh.nasset/Trainset Rail Detailed Bend Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7191-1cf4-f9fe23fa3a35": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Trainset Rail Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2465-78be-0d89-4650e6e88ac5",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-71a7-3250-77616ae77b8d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Wagon.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2465-73a9-3263-9414858931b0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7287-5083-706c0ee3bea4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Wagon Short.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2465-74b4-a4c4-09a3c29dd59d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7289-cf00-eef899555e54": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Locomotive.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2465-7aaa-fda5-084b429fb7ff",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-738e-7ed9-cbde20cd144e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Trainset Rail Bend.mesh.nasset/Trainset Rail Bend Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-73a9-3263-9414858931b0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Wagon.mesh.nasset/Train Wagon Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-74b4-a4c4-09a3c29dd59d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Wagon Short.mesh.nasset/Train Wagon Short Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-74b4-cf05-7ca30ea0532c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Wagon Flat.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2465-7cab-e281-30281a4184bd",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7594-439e-613dbfeb3a2f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Wagon Logs.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2465-76a1-58a2-e08d1caeedd1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-76a1-58a2-e08d1caeedd1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Wagon Logs.mesh.nasset/Train Wagon Logs Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-78be-0d89-4650e6e88ac5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Trainset Rail Corner.mesh.nasset/Trainset Rail Corner Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7aaa-fda5-084b429fb7ff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Locomotive.mesh.nasset/Train Locomotive Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7ab1-8732-a3c951edfdad": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Trainset Rail Bend.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2465-738e-7ed9-cbde20cd144e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7b9e-e3f5-0c2a300e9590": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Wagon Flat Short.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2465-7ebc-360c-f2591f9e43bc",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7bbf-509c-98f363d32b99": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Trainset Rail Detailed Corner.mesh.nasset/Trainset Rail Detailed Corner Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7ca6-39bd-4ae595afafef": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Trainset Rail Detailed Bend.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2465-70ab-825b-827585dca325",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7cab-e281-30281a4184bd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Wagon Flat.mesh.nasset/Train Wagon Flat Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7cb6-a877-85f5ea02bcd2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Tender.mesh.nasset/Train Tender Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7cbd-f6f7-047e538b01f8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Trainset Rail Detailed Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2465-7bbf-509c-98f363d32b99",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7ebc-360c-f2591f9e43bc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Wagon Flat Short.mesh.nasset/Train Wagon Flat Short Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2465-7faa-e787-00df2dc9b6e9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Train Tender.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2465-7cb6-a877-85f5ea02bcd2",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7089-448f-88dfbe155f65": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Wreath Decorated.mesh.nasset/Wreath Decorated Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7092-277d-f7794bbbfe8e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Tree Decorated.mesh.nasset/Tree Decorated Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-71a7-60bd-d8239ea0325f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Trainset Rail Straight.mesh.nasset/Trainset Rail Straight Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-729c-74cd-96d21d89f645": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Tree Snow B.mesh.nasset/Tree Snow B Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-72b8-0d68-e1e6d7fc2e0f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Wreath Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2466-7089-448f-88dfbe155f65",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7496-25fa-760339b2c211": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Tree.mesh.nasset/Tree Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-77ab-2ea0-5fb01633e427": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Tree Snow C.mesh.nasset/Tree Snow C Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7883-9a4a-b589df337e9f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Tree Snow B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2466-729c-74cd-96d21d89f645",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-789c-c8b1-4599add92c51": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Tree.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2466-7496-25fa-760339b2c211",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-79a8-7d5f-3fbc247a8d87": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Tree Decorated Snow.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2466-7cad-9327-fb2935de86ee",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-79af-84f9-d167e3ba4ad4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Wreath.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2466-7cbd-259b-645262edf0d3",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7aba-b1b8-cd60ae09f4d5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Trainset Rail Detailed Straight.mesh.nasset/Trainset Rail Detailed Straight Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7bbf-db78-6fdd73881379": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Tree Snow A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2466-7fb9-83ad-0434d976b1fc",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7c95-5fda-903356447f27": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Tree Snow C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2466-77ab-2ea0-5fb01633e427",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7ca5-cc44-ae24b26a34ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Trainset Rail Straight.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2466-71a7-60bd-d8239ea0325f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7cad-9327-fb2935de86ee": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Tree Decorated Snow.mesh.nasset/Tree Decorated Snow Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7cbd-259b-645262edf0d3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Wreath.mesh.nasset/Wreath Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7d99-a29f-4bfe3197b393": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Tree Decorated.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2466-7092-277d-f7794bbbfe8e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7da2-f51e-ca1eb04d6451": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Trainset Rail Detailed Straight.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "01941ec2-2466-7aba-b1b8-cd60ae09f4d5",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01941ec2-2466-7fb9-83ad-0434d976b1fc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Holiday_Cheer.scene.nasset/Tree Snow A.mesh.nasset/Tree Snow A Holiday Cheer.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "01941ec2-245e-70a0-7cc1-17ad94fe6544",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "01942473-d291-7997-3289-88df279cdbba": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Holiday_Cheer_Thumb.tex.nasset"
+    },
+    "01942473-d42a-779d-6b2d-5a5c10b46c20": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "01942475-4a0c-7391-e06e-1c3f84fef359": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Holiday_Cheer_Enviro.tex.nasset"
+    },
+    "01942475-4bca-7a92-4a30-e0d70c8172ed": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Holiday_Cheer_EnviroDiffuse.tex.nasset"
+    },
+    "01942475-4c0d-7ab7-4e85-a88288914231": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Holiday_Cheer_EnviroSpecular.tex.nasset"
+    },
+    "85114ff1-58c8-4529-b765-45e90d5863a9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Materials/M_Holiday_Skybox.mtli.nasset"
+    },
+    "c2fa639b-4fb2-4223-9856-6f7a34295011": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Holiday Cheer.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[4.071798801422119,-2.0180904865264894,5.273454189300537],\"rotation\":[-46.59962844848633,-9.1532319856924e-7,42.15422439575195]}"
+        }
+    },
+    "cab832e6-698f-4dff-8e3b-053df03c575f": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Holiday Cheer",
+        "thumbnail": "01942473-d291-7997-3289-88df279cdbba",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "guid": "01942473-d42a-779d-6b2d-5a5c10b46c20"
+}
