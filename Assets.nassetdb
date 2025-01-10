@@ -2701,6 +2701,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Textures/T_Mini_Dungeon_D.tex.nasset"
     },
+    "d43d22f2-a02a-1c33-39ae-7aa1716f0d55": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/SK_Mini_Human.scene.nasset/SK Mini Human.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "d47b6347-605b-48a6-acc8-05a5281325a3": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
